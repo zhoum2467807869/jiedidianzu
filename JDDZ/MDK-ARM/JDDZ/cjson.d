@@ -1,0 +1,9 @@
+jddz\cjson.o: ..\Bsp\cJSON.c
+jddz\cjson.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+jddz\cjson.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+jddz\cjson.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+jddz\cjson.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+jddz\cjson.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+jddz\cjson.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+jddz\cjson.o: ..\Bsp\cJSON.h
+jddz\cjson.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

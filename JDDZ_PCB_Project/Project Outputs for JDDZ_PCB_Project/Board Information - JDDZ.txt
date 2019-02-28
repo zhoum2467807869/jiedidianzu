@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\jiedidianzu\JDDZ_PCB_Project\JDDZ.PcbDoc
+Date         : 2019/1/4
+Time         : 12:35:14
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 162
+    Connections routed, 162
+    Connections remaining, 0
+count : 4

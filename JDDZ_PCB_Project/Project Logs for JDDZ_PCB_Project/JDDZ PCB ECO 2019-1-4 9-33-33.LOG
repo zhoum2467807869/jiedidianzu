@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=STM32_DTX Pin=P5-2
+Removed Pin From Net: NetName=STM32_DRX Pin=P5-3
+Removed Pin From Net: NetName=DY_EN Pin=U1-11
+Change Component Designator: OldDesignator=P? NewDesignator=P7
+Added Component: Designator=P1(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R19(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_25835.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25092"; VariantName = "[No Variations]"
+Added Component: Designator=R20(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_25835.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25092"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SIM-SOP)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=STM32_DRX Pin=P1-2
+Added Pin To Net: NetName=STM32_DTX Pin=P1-3
+Added Pin To Net: NetName=VCC_STM32 Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=STM32_DTX Pin=R19-1
+Added Pin To Net: NetName=STM32_DRX Pin=R20-1
+Added Pin To Net: NetName=DY_EN Pin=U1-27
+Added Pin To Net: NetName=SIM_GND Pin=U4-1
+Added Pin To Net: NetName=NetC24_2 Pin=U4-3
+Added Pin To Net: NetName=NetC25_2 Pin=U4-6
+Added Pin To Net: NetName=NetC27_2 Pin=U4-7
+Added Pin To Net: NetName=SIM_VCC Pin=U4-8
+Added Pin To Net: NetName=DEBUG_RX Pin=P6-2
+Added Pin To Net: NetName=DEBUG_RX Pin=U1-13
+Added Net: Name=DEBUG_RX
+Added Pin To Net: NetName=DEBUG_TX Pin=P6-3
+Added Pin To Net: NetName=DEBUG_TX Pin=U1-12
+Added Net: Name=DEBUG_TX
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_2 Pin=R19-2
+Added Net: Name=NetP5_2
+Added Pin To Net: NetName=NetP5_3 Pin=P5-3
+Added Pin To Net: NetName=NetP5_3 Pin=R20-2
+Added Net: Name=NetP5_3
+Added Member To Class: ClassName=JDDZ Member=Component P1 Header 4
+Added Member To Class: ClassName=JDDZ Member=Component P6 Header 3
+Added Member To Class: ClassName=JDDZ Member=Component R19 22Ω (22R0) ±1%
+Added Member To Class: ClassName=JDDZ Member=Component R20 22Ω (22R0) ±1%
+Added Member To Class: ClassName=JDDZ Member=Component U4 SIM-SMT
+Added Room: Name=JDDZ
