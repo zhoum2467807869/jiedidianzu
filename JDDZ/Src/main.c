@@ -137,13 +137,13 @@ int main(void)
 	{
 		debuge_printf("Init fail\n");
 	}
-
+  HAL_GPIO_WritePin(R_LED_GPIO_Port,R_LED_Pin,GPIO_PIN_RESET);
 
 	tim_count = 0;
 
 	HAL_Delay(10);
 
-	
+
 //	BSP_RLED(BSP_ON);
 
   /* USER CODE END 2 */
